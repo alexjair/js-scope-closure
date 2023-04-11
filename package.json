@@ -1,0 +1,12 @@
+{
+  "name": "js-scope-closure",
+  "version": "1.0.0",
+  "description": "☑ Manejo de Closures, Hoisting y Scope en Javascript 💎, ejemplos del desarrollo con un proyecto secillo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
