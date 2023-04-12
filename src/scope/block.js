@@ -14,6 +14,8 @@ function funVerFrutas(){
     //console.log(vFruta02);
     //console.log(vFruta03);
     console.log(vFruta04);
+    
+
 }
 
 funVerFrutas();
